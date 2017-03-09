@@ -13,7 +13,6 @@
     <version>0.1.2</version>
     <packaging>jar</packaging>
     <name>icecp-module-http</name>
-    <url>http://github.intel.com/iSPA/icecp-module-http</url>
     <description>Bridges ICECP channel communication to HTTP requests</description>
 
     <dependencies>
